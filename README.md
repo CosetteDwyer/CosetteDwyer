@@ -4,7 +4,7 @@
 
 ## 🔭 Currently Into
 
-- Sinking my teeth into dental SaaS 🦷 (#sorrynotsorry)
+- Sinking my teeth into dental SaaS 🦷 (#sorrynotsorry for the pun)
 - Using data science to make better product decisions (not just vibes and stakeholder opinions)
 - Exploring how agentic AI and NLP can automate the tedious stuff so people can do actual meaningful work
 
