@@ -10,12 +10,12 @@
 
 ## 🧰 Tools I Work With
 
-```
+
 Product/Marketing stuff: Jira · Confluence · Figma · Google Analytics ·  Salesforce · HubSpot · Mailchimp · WordPress · Squarespace · Wix · Probably others I forget to mention
 
 More technical stuff: Python ·  R · SQL · Java (maybe also some C languages...pretty sure I've forgotten most though... also several physics programs I havent touched in years but would probably be like getting back onto a bicycle after how much I used to use them)
 
-```
+
 
 ## ⚡ Quick Hits
 
