@@ -1,6 +1,6 @@
 # Hey, I'm Cosette. Cody for short 👋
 
-**Senior Product Manager by day. Recovering physicist.** Once published MATLAB code in an astrophysics journal to determine how to identify ancient stardust without destroying it in the process — now I use data to figure out why users abandon onboarding flows. Frankly, both feel about equally mysterious.
+**Senior Product Manager who loves taking legacy products and bringing them into the modern age**
 
 ## 🔭 Currently Into
 
